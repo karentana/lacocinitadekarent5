@@ -1,0 +1,20 @@
+[
+{
+    "idCliente": "0",
+    "nombre": "ANA KARENT",
+    "telefono":12345,
+    "direccion":"zamora"
+    },
+    {
+    "idCliente": "1",
+    "nombre": "ALBERTO",
+    "telefono":12345,
+    "direccion":"zamora"
+    },
+    {
+    "idCliente": "2",
+    "nombre": "ARMANDO",
+    "telefono":12345,
+    "direccion":"zamora"
+    }
+]
